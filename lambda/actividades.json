@@ -1,0 +1,37 @@
+{
+    "actividades" : [
+        {
+            "id" : 0,
+            "titulo" : "lavar los platos",
+            "descripcion" : "lavar los platos después de comer",
+            "hora" : "22:30",
+            "dia" : "2020-04-14",
+            "tiempoCompletar" : 45,
+            "scheduled": "false",
+            "completada" : "false",
+            "idReminder": "" 
+        },
+        {
+            "id" : 1,
+            "titulo" : "hacer la comida",
+            "descripcion" : "hoy toca hacer macarrones",
+            "hora" : "22:32",
+            "dia" : "2020-04-14",
+            "tiempoCompletar" : 45,
+            "scheduled": "false",
+            "completada" : "false",
+            "idReminder": "" 
+        },
+        {
+            "id" : 2,
+            "titulo" : "comer",
+            "descripcion" : "comer los macarrones que acabas de hacer",
+            "hora" : "22:34",
+            "dia" : "2020-04-14",
+            "tiempoCompletar" : 45,
+            "scheduled": "false",
+            "completada" : "false",
+            "idReminder": "" 
+        }
+    ]
+}

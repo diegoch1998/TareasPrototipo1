@@ -1,0 +1,56 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "mis actividades diarias",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "HelloWorldIntent",
+          "slots": [],
+          "samples": [
+            "hello",
+            "how are you",
+            "say hi world",
+            "say hi",
+            "hi",
+            "say hello world",
+            "say hello"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "CreateStaticRemindersIntent",
+          "slots": [],
+          "samples": [
+            "crea los recordatorios",
+            "crea recordatorios para las actividades estáticas"
+          ]
+        },
+        {
+          "name": "DeleteAllRemindersIntent",
+          "slots": [],
+          "samples": [
+            "borra los recordatorios",
+            "borra todos los recordatorios"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "4"
+}
